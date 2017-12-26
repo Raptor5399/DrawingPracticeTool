@@ -2,6 +2,8 @@
 
 Online drawing practice tools give little control, especially over which images you are going to use. This tool lets you use whatever images you want and set a custom number of seconds per image.
 
+NOTE: Only tested on Windows
+
 1) Download and unzip the latest release
 2) Create a folder and dump the images you want to use into it
 3) Launch the program (choose a 16x9 resolution like 1920x1080)
