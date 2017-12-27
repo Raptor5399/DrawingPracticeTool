@@ -13,3 +13,4 @@ NOTE: Only tested on Windows
 7) Draw :)
 
 ![alt text](Example.PNG "Example")
+![alt text](Example2.PNG "Example2")
