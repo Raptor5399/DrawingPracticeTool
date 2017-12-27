@@ -11,3 +11,5 @@ NOTE: Only tested on Windows
 5) Copy and paste the location of your folder (something like "C:\Users\Your_User_Name\Desktop\Your_Directory_Name") full of images into the input field labeled "Image Directory". This will be saved to a file and reloaded so you don't have to do it every time you launch.
 6) Press Start
 7) Draw :)
+
+![alt text](Example.PNG "Example")
